@@ -1,4 +1,4 @@
-# 🌐 Fellrose Anquillano — Portfolio
+#  Fellrose Anquillano — Portfolio
 
 ✨ Welcome to my personal portfolio website!  
 This project showcases my journey as a student exploring web development, design, and programming.
@@ -8,7 +8,7 @@ This project showcases my journey as a student exploring web development, design
 ## 👀 Preview
 
 🔗 **Live Website:**  
-👉👉 https://fellroseanquillano.github.io/fellroseanquillano-myportfolio
+👉 https://fellroseanquillano.github.io/fellroseanquillano-myportfolio
 
 ---
 
@@ -47,23 +47,7 @@ An environmental reporting system for pollution.
 - Share location data  
 - Helps in environmental monitoring  
 
----
 
-## 🎨 Features
-
-- ✨ Clean pastel blue design  
-- 🌌 Animated star background  
-- 👀 Smooth scroll reveal animations  
-- 📍 Active navigation highlight  
-- 📱 Fully responsive layout  
-
----
-
-## 🧩 Tech Stack
-
-- HTML  
-- CSS  
-- JavaScript  
 
 
 
