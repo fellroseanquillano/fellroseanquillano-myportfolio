@@ -714,12 +714,48 @@ footer {
   nav { padding: 16px 20px; }
   .nav-links { display: none; }
 
-  #hero { padding: 0 20px; }
+  #hero {
+    padding: 100px 20px 60px;
+    align-items: flex-start;
+  }
+
   .hero-wrap {
     grid-template-columns: 1fr;
-    gap: 40px;
+    grid-template-rows: auto auto;
+    gap: 32px;
+    /* Put avatar on top, text below */
+    direction: ltr;
   }
-  .hero-avatar { display: none; }
+
+  /* Move avatar above the text on mobile */
+  .hero-avatar {
+    display: flex;
+    justify-content: center;
+    order: -1;
+  }
+
+  /* Scale down the avatar ring for mobile */
+  .avatar-ring {
+    width: 140px;
+    height: 140px;
+  }
+
+  .avatar-initials {
+    width: 118px;
+    height: 118px;
+    font-size: 34px;
+  }
+
+  /* If using a real photo */
+  .avatar-initials img {
+    width: 118px;
+    height: 118px;
+  }
+
+  .hero-name {
+    font-size: clamp(38px, 10vw, 56px);
+    letter-spacing: -1px;
+  }
 
   .container { padding: 0 20px; }
 
