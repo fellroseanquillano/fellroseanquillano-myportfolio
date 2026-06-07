@@ -16,15 +16,18 @@ This project showcases my journey as a student exploring web development, design
 
 This portfolio includes:
 
+
 ### 🏠 Home 
 - Introduction about me as a 2nd year student  
 - Overview of my passion in technology and design  
 - Quick actions: View projects and contact
 
+
 ### 👩‍💻 About Me
 - Short background about myself  
 - My education and interests  
 - My journey in learning technology and coding  
+
 
 ### 🛠 Skills
 - HTML, CSS  
@@ -33,7 +36,9 @@ This portfolio includes:
 - Exploring **Laravel**  
 - Responsive design basics  
 
-### 🚀 Projects
+
+
+###  Projects
 
 #### 🔹 ServiceTrack
 A system designed to manage and organize community service requests efficiently.  
