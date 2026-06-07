@@ -8,7 +8,7 @@ This project showcases my journey as a student exploring web development, design
 ## 👀 Preview
 
 🔗 **Live Website:**  
-👉 https://fellroseanquillano-myportfolio.github.io  
+👉👉 https://fellroseanquillano.github.io/fellroseanquillano-myportfolio
 
 ---
 
