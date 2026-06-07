@@ -1,7 +1,3 @@
-/* ============================================================
-   script.js — Fell Rose Anquillano Portfolio
-   ============================================================ */
-
 /* ── STARFIELD ── */
 function initStars() {
   const starsEl = document.getElementById('stars');
