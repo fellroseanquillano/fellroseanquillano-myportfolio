@@ -67,5 +67,3 @@ An environmental reporting system for pollution.
 
 
 
-```bash
-screenshot.png
