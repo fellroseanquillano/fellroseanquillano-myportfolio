@@ -17,19 +17,19 @@ This project showcases my journey as a student exploring web development, design
 This portfolio includes:
 
 
-### 🏠 Home 
+###  Home 
 - Introduction about me as a 2nd year student  
 - Overview of my passion in technology and design  
 - Quick actions: View projects and contact
 
 
-### 👩‍💻 About Me
+###  About Me
 - Short background about myself  
 - My education and interests  
 - My journey in learning technology and coding  
 
 
-### 🛠 Skills
+###  Skills
 - HTML, CSS  
 - JavaScript (Beginner)  
 - MySQL, Java  
