@@ -16,7 +16,7 @@ This project showcases my journey as a student exploring web development, design
 
 This portfolio includes:
 
-### 🏠 Home (Hero Section)
+### 🏠 Home 
 - Introduction about me as a 2nd year student  
 - Overview of my passion in technology and design  
 - Quick actions: View projects and contact
