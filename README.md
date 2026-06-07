@@ -1,65 +1,71 @@
-# 🌐 Fellrose Anquillano — Personal Portfolio
+# 🌐 Fellrose Anquillano — Portfolio
 
-> My personal portfolio website hosted on GitHub Pages.  
-> Visit it live at: **[fellroseanquillano.github.io](https://fellroseanquillano.github.io)**
-
-## 👩‍💻 About
-
-Hi! I'm **Fellrose Anquillano**, a 2nd year student at **Davao del Norte State College**.  
-This portfolio showcases my projects, skills, and contact information as I grow in the field of technology and web development.
+✨ Welcome to my personal portfolio website!  
+This project showcases my journey as a student exploring web development, design, and programming.
 
 ---
 
-## 📁 Project Structure
+## 👀 Preview
 
-```
-fellroseanquillano.github.io/
-│
-├── index.html       → Main HTML structure of the portfolio
-├── style.css        → All styles, colors, layout, and animations
-├── script.js        → JavaScript for starfield, scroll reveal, and nav effects
-└── README.md        → You are here!
-```
+🔗 **Live Website:**  
+👉 https://fellroseanquillano.github.io  
 
 ---
 
-## ✨ Features
+## 📌 What's Inside
 
-- 🌟 Animated starfield background
-- 💙 Blue-themed dark design
-- 📱 Fully responsive (mobile-friendly)
-- 🎞️ Smooth scroll-reveal animations
-- 🔗 Sections: Hero, About, Skills, Projects, Contact
+This portfolio includes:
 
----
+### 🏠 Home (Hero Section)
+- Introduction about me as a 2nd year student  
+- Overview of my passion in technology and design  
+- Quick actions: View projects and contact
 
-## 🛠️ Built With
+### 👩‍💻 About Me
+- Short background about myself  
+- My education and interests  
+- My journey in learning technology and coding  
 
-| Technology | Purpose |
-|---|---|
-| HTML5 | Page structure and content |
-| CSS3 | Styling, animations, layout |
-| JavaScript (Vanilla) | Interactivity and scroll effects |
-| Google Fonts | Playfair Display + Plus Jakarta Sans |
-| GitHub Pages | Free hosting |
+### 🛠 Skills
+- HTML, CSS  
+- JavaScript (Beginner)  
+- MySQL, Java  
+- Exploring **Laravel**  
+- Responsive design basics  
 
----
+### 🚀 Projects
 
-## 🚀 How to Deploy on GitHub Pages
+#### 🔹 ServiceTrack
+A system designed to manage and organize community service requests efficiently.  
+- Task assignment  
+- Progress tracking  
+- Report generation  
 
-1. Create a repository named exactly: `fellroseanquillano.github.io`
-2. Upload all four files (`index.html`, `style.css`, `script.js`, `README.md`) to the root
-3. Go to **Settings → Pages**
-4. Under **Source**, select `Deploy from a branch` → `main` → `/ (root)`
-5. Click **Save** — your site will be live in a few minutes!
-
----
-
-## 📬 Contact
-
-- 📧 Email: fellroseanquillano082206@gmail.com
-- 🐙 GitHub: [github.com/fellroseanquillano](https://github.com/fellroseanquillano)
+#### 🔹 AquaTrack
+An environmental reporting system for pollution.  
+- Users can upload photos  
+- Share location data  
+- Helps in environmental monitoring  
 
 ---
 
+## 🎨 Features
 
+- ✨ Clean pastel blue design  
+- 🌌 Animated star background  
+- 👀 Smooth scroll reveal animations  
+- 📍 Active navigation highlight  
+- 📱 Fully responsive layout  
+
+---
+
+## 🧩 Tech Stack
+
+- HTML  
+- CSS  
+- JavaScript  
+
+
+
+```bash
+screenshot.png
