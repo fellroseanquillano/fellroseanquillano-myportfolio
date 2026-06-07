@@ -3,8 +3,6 @@
 > My personal portfolio website hosted on GitHub Pages.  
 > Visit it live at: **[fellroseanquillano.github.io](https://fellroseanquillano.github.io)**
 
----
-
 ## 👩‍💻 About
 
 Hi! I'm **Fellrose Anquillano**, a 2nd year student at **Davao del Norte State College**.  
